@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664228832 source:d:\proyectos_c++\tercer_parcial_ada\uva-12015\src\web.cpp
+	"Web.h"
+
+1664228832 d:\proyectos_c++\tercer_parcial_ada\uva-12015\include\web.h
+	<string>
+	<iostream>
+
